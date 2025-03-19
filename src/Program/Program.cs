@@ -1,4 +1,4 @@
-﻿public class Multiplication
+public class Multiplication
 {
     public static int Multiply(int a, int b)
     {
