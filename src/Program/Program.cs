@@ -2,7 +2,7 @@ public class Multiplication
 {
     public static int Multiply(int a, int b)
     {
-        return a * b;
+        return 0;
     }
 }
 Console.WriteLine(Addition.Add(7, 2));
